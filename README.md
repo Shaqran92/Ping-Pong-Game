@@ -76,5 +76,3 @@ Make sure you have **Python 3.x** installed.
 ```bash
 python main.py
 
-## 📁 Project Structure
-
